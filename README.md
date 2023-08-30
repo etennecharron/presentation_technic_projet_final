@@ -22,7 +22,7 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 ![image hélice 01](assets/images/hologramme_elice_01.jpg)
 #### MATÉRIEL
 * hélice holographique
-
+[liens vers video qui explique comment faire fonctionner l'élice avec un hologramme](https://www.youtube.com/watch?v=1Qrm0Y9UhVA)
 
 
 
