@@ -14,6 +14,8 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 * vitre
 * tissus très mince (tulle)
 ### HOLOGRAMMES VITRINES & PYRAMIDE
+![image scénique 01](assets/images/hologramme_vitrine_01.png)
+![image scénique 01](assets/images/hologramme_pyramide_01.jpg)
 
 
 
