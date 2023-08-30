@@ -10,6 +10,10 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 
 ### HOLOGRAMMES SCÉNIQUE
 ![image scénique 01](assets/images/hologramme_scenique_01.jpg)
+#### MATÉRIEL
+* vitre
+* tissus très mince (tulle)
+### HOLOGRAMMES VITRINES & PYRAMIDE
 
 
 
