@@ -18,8 +18,9 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 ![image pyramide 01](assets/images/hologramme_pyramide_01.png)
 #### MATÉRIEL
 * vitre
-### HOLGRAMMES HÉLICE
+### HOLGRAMMES AVEC HÉLICE
 #### MATÉRIEL
+* hélice holographique
 
 
 
