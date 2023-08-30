@@ -19,6 +19,7 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 #### MATÉRIEL
 * vitre
 ### HOLGRAMMES AVEC HÉLICE
+![image hélice 01](assets/images/hologramme_elice_01.jpg)
 #### MATÉRIEL
 * hélice holographique
 
