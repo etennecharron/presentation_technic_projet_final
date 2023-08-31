@@ -19,6 +19,7 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 * hélice holographique
 * tissus mince
 * vitre
+* projecteur
 [liens vers video qui explique comment faire fonctionner l'élice avec un hologramme](https://www.youtube.com/watch?v=1Qrm0Y9UhVA)
 
 
