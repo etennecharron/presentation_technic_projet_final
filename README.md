@@ -16,8 +16,6 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 ### HOLOGRAMMES VITRINES & PYRAMIDE
 ![image vitrine 01](assets/images/hologramme_vitrine_01.jpg)
 ![image pyramide 01](assets/images/hologramme_pyramide_01.png)
-#### MATÉRIEL
-* vitre
 ### HOLGRAMMES AVEC HÉLICE
 ![image hélice 01](assets/images/hologramme_elice_01.jpg)
 #### MATÉRIEL
