@@ -22,6 +22,10 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 * projecteur
 [liens vers video qui explique comment faire fonctionner l'élice avec un hologramme](https://www.youtube.com/watch?v=1Qrm0Y9UhVA)
 
+# PROJET INTÉRESSANT
+* hologramme scénique
+  
+
 
 
 
