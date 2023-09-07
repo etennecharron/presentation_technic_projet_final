@@ -10,16 +10,17 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 
 ### HOLOGRAMMES SCÉNIQUE
 ![image scénique 01](assets/images/hologramme_scenique_01.jpg)
+#### MATÉRIEL
+* vitre
+* tissus mince
+* projecteur
 ### HOLOGRAMMES VITRINES & PYRAMIDE
 ![image vitrine 01](assets/images/hologramme_vitrine_01.jpg)
 ![image pyramide 01](assets/images/hologramme_pyramide_01.png)
 ### HOLGRAMMES AVEC HÉLICE
 ![image hélice 01](assets/images/hologramme_elice_01.jpg)
-### MATÉRIEL
+#### MATÉRIEL
 * hélice holographique
-* tissus mince
-* vitre
-* projecteur
 [liens vers video qui explique comment faire fonctionner l'élice avec un hologramme](https://www.youtube.com/watch?v=1Qrm0Y9UhVA)
 
 # PROJET INTÉRESSANT
