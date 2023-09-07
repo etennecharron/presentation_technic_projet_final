@@ -27,7 +27,7 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 
   
 ![image du tissus](assets/images/tissus_01.jpg)
-
+![image exmple de l'holograme scnénique](assets/images/exemple_holograme_scenique_01.png)
 
 
 
