@@ -24,6 +24,8 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 
 # PROJET INTÉRESSANT
 * hologramme scénique
+
+  
 ![image du tissus](assets/images/tissus_01.jpg)
 
 
