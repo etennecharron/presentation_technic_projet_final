@@ -1,5 +1,5 @@
 # PRÉSENTATION SUR LES HOLOGRAMMES
-Présentation de la recherche d’un concept, d’une idée, d’une technologie, d’un traitement sur un support
+Présentation sur les hologrammes
 
 ## TYPE D'HOLOGRAMMES
 * Hologrammes scénique
@@ -10,7 +10,7 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 
 ### HOLOGRAMMES SCÉNIQUE
 ![image scénique 01](assets/images/hologramme_scenique_01.jpg)
-* image de foresta lumina au début de l'expérience
+* image de [Foresta Lumina](https://forestalumina.com/) au début de l'expérience 
 #### MATÉRIEL
 * vitre
 * tissus mince
