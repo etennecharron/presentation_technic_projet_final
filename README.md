@@ -10,6 +10,7 @@ Présentation de la recherche d’un concept, d’une idée, d’une technologie
 
 ### HOLOGRAMMES SCÉNIQUE
 ![image scénique 01](assets/images/hologramme_scenique_01.jpg)
+* image de foresta lumina au début l'expérience
 #### MATÉRIEL
 * vitre
 * tissus mince
